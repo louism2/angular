@@ -40,6 +40,7 @@ GEM
       tzinfo (~> 1.1)
     airbrussh (1.1.1)
       sshkit (>= 1.6.1, != 1.7.0)
+    angularjs-rails (1.6.0)
     arel (7.1.4)
     builder (3.2.2)
     byebug (9.0.6)
@@ -169,6 +170,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  angularjs-rails (~> 1.6)
   byebug
   capistrano (~> 3.7)
   coffee-rails (~> 4.2)
