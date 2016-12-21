@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem "capistrano", "~> 3.7"
 
+gem 'bower-rails'
+
 gem 'angularjs-rails', '~> 1.6'
 
 group :development, :test do
